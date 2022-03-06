@@ -1,5 +1,5 @@
 # AlgorithmVideo
-코딩테스트 강의 수업을 듣고 진도 체크하는 레포
+[강의](https://www.youtube.com/channel/UCHcG02L6TSS-StkSbqVy6Fg)를 듣고 진도 체크하는 레포
 
 ## 📚 Week1 : 03/07 ~ 03/13  
 |주제|갯수|서영|혜린|
