@@ -5,7 +5,7 @@
 |주제|갯수|서영|혜린|
 |---|---|---|---|
 |Array|15개|[🐧](https://github.com/Gardner-Penguin/AlgorithmVideo/blob/main/Week%201/penguin/Arrays.py)|[🌿](https://github.com/Gardner-Penguin/AlgorithmVideo/blob/main/Week%201/gardner/Array.md)|
-|String|5개|[🐧](https://github.com/Gardner-Penguin/AlgorithmVideo/blob/main/Week%201/penguin/String.py)||
+|String|5개|[🐧](https://github.com/Gardner-Penguin/AlgorithmVideo/blob/main/Week%201/penguin/String.py)|[🌿](https://github.com/Gardner-Penguin/AlgorithmVideo/blob/main/Week%201/gardner/String.md)|
 ## 📚 Week2 : 03/14 ~ 03/20
 |주제|갯수|서영|혜린|
 |---|---|---|---|
