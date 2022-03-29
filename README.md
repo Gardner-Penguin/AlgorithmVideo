@@ -9,12 +9,9 @@
 ## 📚 Week2 : 03/14 ~ 03/20
 |주제|갯수|서영|혜린|
 |---|---|---|---|
-|Sorting|10개|🐧|🌿|
-|Stack|4개|🐧|🌿|
-|HashMap|5개|🐧|🌿|
-
-<hr>
-
+|Sorting|10개|[🐧](https://github.com/Gardner-Penguin/AlgorithmVideo/blob/main/Week%202/penguin/Sorting.py)|[🌿](https://github.com/Gardner-Penguin/AlgorithmVideo/blob/main/Week%202/gardner/Sorting.md)|
+|Stack|4개|[🐧](https://github.com/Gardner-Penguin/AlgorithmVideo/blob/main/Week%202/penguin/Stack.py)|[🌿](https://github.com/Gardner-Penguin/AlgorithmVideo/blob/main/Week%202/gardner/Stack.md)|
+|HashMap|5개|[🐧](https://github.com/Gardner-Penguin/AlgorithmVideo/blob/main/Week%202/penguin/HashMap.py)|[🌿](https://github.com/Gardner-Penguin/AlgorithmVideo/blob/main/Week%202/gardner/HashMap.md)|
 ## 📚 Week3 : 03/28 ~ 04/03
 |주제|갯수|서영|혜린|
 |---|---|---|---|
