@@ -12,19 +12,19 @@
 |Sorting|10개|[🐧](https://github.com/Gardner-Penguin/AlgorithmVideo/blob/main/Week%202/penguin/Sorting.py)|[🌿](https://github.com/Gardner-Penguin/AlgorithmVideo/blob/main/Week%202/gardner/Sorting.md)|
 |Stack|4개|[🐧](https://github.com/Gardner-Penguin/AlgorithmVideo/blob/main/Week%202/penguin/Stack.py)|[🌿](https://github.com/Gardner-Penguin/AlgorithmVideo/blob/main/Week%202/gardner/Stack.md)|
 |HashMap|5개|[🐧](https://github.com/Gardner-Penguin/AlgorithmVideo/blob/main/Week%202/penguin/HashMap.py)|[🌿](https://github.com/Gardner-Penguin/AlgorithmVideo/blob/main/Week%202/gardner/HashMap.md)|
-## 📚 Week3 : 03/28 ~ 04/03
+## 📚 Week3 : 04/04 ~ 04/10
 |주제|갯수|서영|혜린|
 |---|---|---|---|
-|DP|6개|||
+|DP|6개|🐧||
 |BackTracking|6개|||
-|LinkedList|7개|||
-## 📚 Week4 : 04/04 ~ 04/10
+|LinkedList|7개|🐧||
+## 📚 Week4 : 04/11 ~ 04/17
 |주제|갯수|서영|혜린|
 |---|---|---|---|
 |Queue|3개|||
 |Tree|7개|||
 |Graph|4개|||
-## 📚 Week5 : 04/11 ~ 04/17
+## 📚 Week5 : 04/18 ~ 04/24
 |주제|갯수|서영|혜린|
 |---|---|---|---|
 |Heap|5개|||
